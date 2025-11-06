@@ -1,3 +1,3 @@
 # New-Repository
 This is for practice.
-This is main branch.
+This is master branch.
